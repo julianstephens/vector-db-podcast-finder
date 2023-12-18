@@ -1,4 +1,4 @@
-# Weaviate + SveletKit Podcast Proximity Search Tool
+# Vector DB Podcast Finder
 
 Utilizes Weaviate vector DB to provide VOX Today Explained episode suggestions from text input
 
